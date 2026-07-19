@@ -9,7 +9,7 @@ It provides a fast and safe way to manage all owned expansions and cosmetic pack
 
 # 🔗 Get the Latest Release
 
-* [📦 View All Releases]()
+* [📦 View All Releases](https://github.com/finnm-AquilaEarth/Crusader-Kings-3-DLC-Unlocker/releases)
 
 ---
 
